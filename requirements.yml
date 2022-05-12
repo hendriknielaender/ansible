@@ -1,0 +1,7 @@
+---
+
+- name: hendriknielaender.homebrew
+
+- src: https://github.com/hendriknielaender/dotfiles
+  version: master
+  name: ansible-role-dotfiles
